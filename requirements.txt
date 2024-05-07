@@ -1,0 +1,5 @@
+Python 3.8+
+xgboost
+pandas
+numpy
+scikit-learn
