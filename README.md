@@ -20,6 +20,6 @@ This repository contains the implementation of a sales forecasting model using t
 ## Installation
 To set up the project environment, run the following commands:
 ```bash
-git clone https://github.com/your-username/sales-forecasting-xgboost.git
+https://github.com/Sabale-37/Sales_forecasting_using_XGBoost.git
 cd sales-forecasting-xgboost
 pip install -r requirements.txt
